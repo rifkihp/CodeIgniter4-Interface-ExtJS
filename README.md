@@ -3,8 +3,8 @@ Codeigniter 4 dengan Interface EXTJS
 
 Menjalankan aplikasi
 
--- php spark serve
+## php spark serve
 
 Membuka browser dengan url
 
--- http://localhost:8080/
+## http://localhost:8080/
